@@ -1,4 +1,4 @@
-module github.com/everFinance/goar
+module github.com/lg007/goar-ar
 
 go 1.17
 
